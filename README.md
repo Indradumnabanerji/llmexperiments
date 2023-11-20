@@ -2,19 +2,24 @@
 # Author: Indra Banerjee
 
 
-Input Dataset:  
+Input Dataset:
+
 SQUAD Dataset 
 
 Data Split: 
+
 Divide your dataset into training and testing subsets. The training set will be used to train the model, while the testing set will be used to evaluate its performance.
 
-Model Selection: 
+Model Selection:
+
 google/flan-t5-small
 
 Model Training: 
+
 Train the selected model on the training data. 
 
 Model Evaluation: 
+
 Evaluate with Rouge and Bleu scores.
 
 Usage:
