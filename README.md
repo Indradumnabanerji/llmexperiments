@@ -28,5 +28,7 @@ Run all the scripts:
 
 Scripts: 
     invoker.py --> all functions invocation
+    
     Promptcode.py --> Main code
+    
     TaskSN.ipynb --> Notebook
