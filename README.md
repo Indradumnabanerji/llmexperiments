@@ -24,6 +24,7 @@ Usage:
     wget https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v2.0.json -O dev.json
 
 Run all the scripts:
+
     python3 invoker.py
 
 Scripts: 
