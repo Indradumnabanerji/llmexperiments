@@ -2,27 +2,27 @@
 # Author: Indra Banerjee
 
 
-Input Dataset:
+**Input Dataset:**
 
 SQUAD Dataset 
 
-Data Split: 
+**Data Split: **
 
 Divide your dataset into training and testing subsets. The training set will be used to train the model, while the testing set will be used to evaluate its performance.
 
-Model Selection:
+**Model Selection:**
 
 google/flan-t5-small
 
-Model Training: 
+**Model Training: **
 
 Train the selected model on the training data. 
 
-Model Evaluation: 
+**Model Evaluation: **
 
 Evaluate with Rouge and Bleu scores.
 
-Usage:
+**Usage:**
 
     Squad dataset to be dowloaded in local
     
@@ -34,11 +34,11 @@ Usage:
     
     wget https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v2.0.json -O dev.json
 
-Run all the scripts:
+**Run all the scripts:**
 
     python3 invoker.py
 
-Scripts: 
+**Scripts: **
 
     invoker.py --> all functions invocation
     
