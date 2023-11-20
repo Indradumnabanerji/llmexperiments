@@ -2,19 +2,20 @@
 # Author: Indra Banerjee
 
 
-Input Dataset:  SQUAD Dataset 
+Input Dataset:  
+SQUAD Dataset 
 
-Data Split: Divide your dataset into training and testing subsets. The training set will be used to train the model, while the testing set will be used to evaluate its performance.
+Data Split: 
+Divide your dataset into training and testing subsets. The training set will be used to train the model, while the testing set will be used to evaluate its performance.
 
-Model Selection: google/flan-t5-small
+Model Selection: 
+google/flan-t5-small
 
-Model Training: Train the selected model on the training data. 
+Model Training: 
+Train the selected model on the training data. 
 
-Model Evaluation: Evaluate with Rouge and Bleu scores.
-
-
-Limitations: 
-Smaller dataset for Campaign Recommender model as the model creates number of records (x50) embedding dimension. 
+Model Evaluation: 
+Evaluate with Rouge and Bleu scores.
 
 Usage:
 
